@@ -1,5 +1,5 @@
 Данный код генерирует решение для соревнования https://www.kaggle.com/c/bert-classification <br>
-Public Leaderboard score 0.96818
+Public Leaderboard score 0.96818 (на данный момент 1е место)
 
 Необходимые модули для питона:
 - numpy 1.14.6
